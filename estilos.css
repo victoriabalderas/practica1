@@ -13,9 +13,10 @@ h2 {
     color: rgb(134, 107, 71);
 }
 
-h3 {
+.subtitulo {
     color: rgb(134, 107, 71);
     font-family: 'Lucida Sans';
+    font-size: x-large;
 }
 
 p {
